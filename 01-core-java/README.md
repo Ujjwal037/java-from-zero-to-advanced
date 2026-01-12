@@ -13,3 +13,9 @@ starting from absolute basics and building a strong conceptual foundation.
 ## How to Run
 Each package contains independent examples.
 Run any class with a `main` method directly from IntelliJ IDEA.
+
+## Week 1 – Java Fundamentals
+- What is Java
+- Features of Java
+- JVM, JRE, JDK
+- Java compilation and execution flow
