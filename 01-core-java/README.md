@@ -19,3 +19,21 @@ Run any class with a `main` method directly from IntelliJ IDEA.
 - Features of Java
 - JVM, JRE, JDK
 - Java compilation and execution flow
+### Example
+- JdkJreJvm.java
+- JavaExecutionFlow.java
+- WhatIsJave.java
+- HelloWorld.java
+
+## Day 2 — Java Program Structure
+
+### Topics Covered
+- Structure of a Java program
+- main() method signature
+- Role of public, static, void
+- JDK vs JRE vs JVM
+- Compilation and execution flow
+
+### Example
+- ProgramStructure.java
+
