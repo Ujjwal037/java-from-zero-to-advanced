@@ -37,3 +37,17 @@ Run any class with a `main` method directly from IntelliJ IDEA.
 ### Example
 - ProgramStructure.java
 
+## Day 3 — Variables, Identifiers & Keywords
+
+### Topics Covered
+- Variable declaration and initialization
+- Reassignment of variables
+- final keyword
+- Identifier naming rules
+- Overview of Java keywords
+
+### Examples
+- VariablesDemo.java
+- IdentifierRules.java
+
+
