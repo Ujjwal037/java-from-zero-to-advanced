@@ -61,5 +61,15 @@ Run any class with a `main` method directly from IntelliJ IDEA.
 ### Example
 - PrimitiveTypesDemo.java
 
+## Day 5 — Type Casting & Data Conversion
+
+### Topics Covered
+- Implicit (widening) casting
+- Explicit (narrowing) casting
+- Data loss scenarios
+- char to int conversion
+
+### Example
+- TypeCastingDemo.java
 
 
