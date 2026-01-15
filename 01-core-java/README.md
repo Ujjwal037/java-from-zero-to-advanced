@@ -50,4 +50,16 @@ Run any class with a `main` method directly from IntelliJ IDEA.
 - VariablesDemo.java
 - IdentifierRules.java
 
+## Day 4 — Primitive Data Types
+
+### Topics Covered
+- Java primitive data types
+- Size and range overview
+- Stack memory basics
+- Default values concept
+
+### Example
+- PrimitiveTypesDemo.java
+
+
 
