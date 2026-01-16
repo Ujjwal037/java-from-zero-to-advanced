@@ -72,4 +72,18 @@ Run any class with a `main` method directly from IntelliJ IDEA.
 ### Example
 - TypeCastingDemo.java
 
+## Day 6 — Operators in Java
+
+### Topics Covered
+- Arithmetic operators
+- Relational operators
+- Logical operators
+- Assignment operators
+- Unary operators
+- Operator precedence basics
+
+### Example
+- OperatorsDemo.java
+
+
 
