@@ -1,4 +1,4 @@
-package com.ujjwal.java.oop.basics;
+package com.ujjwal.java.oop.basic;
 
 class Car {
     String brand;
