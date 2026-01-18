@@ -85,5 +85,17 @@ Run any class with a `main` method directly from IntelliJ IDEA.
 ### Example
 - OperatorsDemo.java
 
+## Day 7 — Control Flow Statements
+
+### Topics Covered
+- if, if-else, else-if
+- switch statement
+- for, while, do-while loops
+- break and continue
+
+### Example
+- ControlFlowDemo.java
+
+
 
 
