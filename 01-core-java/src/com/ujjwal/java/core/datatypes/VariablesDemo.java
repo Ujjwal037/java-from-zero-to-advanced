@@ -1,4 +1,4 @@
-package com.ujjwal.java.core.basics;
+package com.ujjwal.java.core.datatypes;
 
 public class VariablesDemo {
 
