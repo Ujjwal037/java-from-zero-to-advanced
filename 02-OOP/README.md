@@ -16,3 +16,11 @@ and progressive complexity.
 
 ### Example
 - ClassObjectDemo.java
+
+## Week 2 – Day 2
+### Topics Covered
+- Constructors
+- Default vs Parameterized Constructor
+- this keyword
+- Object creation flow
+
