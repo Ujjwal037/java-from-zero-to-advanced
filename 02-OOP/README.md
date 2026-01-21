@@ -24,3 +24,11 @@ and progressive complexity.
 - this keyword
 - Object creation flow
 
+## Week 2 – Day 3
+### Topics Covered
+- Constructor chaining using this()
+- Static blocks
+- Instance initialization blocks
+- Object creation and execution order
+
+
