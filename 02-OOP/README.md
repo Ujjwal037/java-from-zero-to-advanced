@@ -31,4 +31,11 @@ and progressive complexity.
 - Instance initialization blocks
 - Object creation and execution order
 
+## Week 2 – Day 4
+### Topics Covered
+- Encapsulation
+- Getter and Setter design
+- Access modifiers (private, default, protected, public)
+- Real-world example using BankAccount
+
 
