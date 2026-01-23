@@ -38,4 +38,12 @@ and progressive complexity.
 - Access modifiers (private, default, protected, public)
 - Real-world example using BankAccount
 
+## Week 2 – Day 5
+### Topics Covered
+- Inheritance (IS-A relationship)
+- `extends` keyword
+- `super` keyword
+- Method overriding
+- Runtime polymorphism basics
+
 
