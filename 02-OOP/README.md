@@ -46,4 +46,13 @@ and progressive complexity.
 - Method overriding
 - Runtime polymorphism basics
 
+## Week 2 – Day 6
+### Topics Covered
+- Polymorphism
+- Compile-time vs Runtime polymorphism
+- Method overriding
+- Upcasting and downcasting
+- `instanceof` operator
+
+
 
