@@ -7,11 +7,13 @@ public class PolymorphismDemo {
         // Upcasting (Runtime Polymorphism)
         Shape shape = new Circle();
         shape.draw(); // Circle's draw() executes
+        shape.radius();
 
         // Downcasting
         if (shape instanceof Circle) {
             Circle circle = (Circle) shape;
             circle.radius();
+            circle.draw();
         }
     }
 }
