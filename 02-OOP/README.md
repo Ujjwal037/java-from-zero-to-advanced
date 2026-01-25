@@ -54,5 +54,14 @@ and progressive complexity.
 - Upcasting and downcasting
 - `instanceof` operator
 
+## Week 2 – Day 7
+### Topics Covered
+- Abstraction
+- Abstract classes
+- Interfaces
+- Multiple inheritance using interfaces
+- Real-world abstraction design
+
+
 
 
