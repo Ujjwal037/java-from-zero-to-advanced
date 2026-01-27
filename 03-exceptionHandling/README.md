@@ -11,3 +11,11 @@
 
 ### Example
 - ArithmeticException handling
+
+## Week 3 – Day 2 - Multiple Catch Blocks
+### Topics Covered
+- Multiple catch blocks
+- Exception hierarchy
+- Catch order rules
+- finally block
+- Resource cleanup

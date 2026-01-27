@@ -1,4 +1,4 @@
-package com.ujjwal.java.exception.basics;
+package com.ujjwal.java.exception.basic;
 
 public class ExceptionBasicsDemo {
 
