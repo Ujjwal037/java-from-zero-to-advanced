@@ -19,3 +19,11 @@
 - Catch order rules
 - finally block
 - Resource cleanup
+
+## Week 3 – Day 3
+### Topics Covered
+- throw keyword
+- throws keyword
+- Exception propagation
+- Handling vs rethrowing exceptions
+

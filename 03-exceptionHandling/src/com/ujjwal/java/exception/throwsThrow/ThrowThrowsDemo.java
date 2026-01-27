@@ -1,4 +1,4 @@
-package com.ujjwal.java.exception.throwthrows;
+package com.ujjwal.java.exception.throwsThrow;
 
 public class ThrowThrowsDemo {
 
