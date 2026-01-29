@@ -27,3 +27,12 @@
 - Exception propagation
 - Handling vs rethrowing exceptions
 
+
+## Week 3 – Day 4
+### Topics Covered
+- Custom exceptions
+- Business exception design
+- Checked vs unchecked custom exceptions
+- Real-world use cases
+
+
