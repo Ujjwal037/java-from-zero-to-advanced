@@ -35,4 +35,11 @@
 - Checked vs unchecked custom exceptions
 - Real-world use cases
 
+## Week 3 – Day 5
+### Topics Covered
+- Exception handling best practices
+- Anti-patterns
+- Checked vs unchecked usage guidelines
+- Exception design for enterprise applications
+
 
