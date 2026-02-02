@@ -1,19 +1,23 @@
-# Java Collections Framework
+# Collections Framework – Week 4
 
-## Week 4 – Day 1: Collections Overview & List Interface
+## Day 1 – Collections Overview
+- What is Collection vs Collections
+- Iterable hierarchy
+- Why collections exist
 
-### Topics Covered
-- Why Collections Framework
-- Array vs Collection
-- Collection hierarchy
-- List interface
-- Basic usage of ArrayList
-
-## Week 4 – Day 2: ArrayList Internal Working
-
-### Topics Covered
-- Internal array structure
-- Capacity vs size
-- Dynamic resizing
-- Growth formula
+## Day 2 – ArrayList Internal Working
+- Dynamic array resizing
+- add(), get(), remove()
 - Time complexity analysis
+
+## Day 3 – LinkedList Internals
+- Doubly linked list structure
+- Node traversal logic
+- ArrayList vs LinkedList decision guide
+
+## Day 4 – Thread-Safe Lists
+- Vector vs ArrayList
+- Synchronization problems
+- CopyOnWriteArrayList internal working
+- Fail-safe iterators
+
