@@ -21,3 +21,10 @@
 - CopyOnWriteArrayList internal working
 - Fail-safe iterators
 
+## Day 5 – HashMap Internal Working
+- Hashing and bucket index calculation
+- Collision handling (LinkedList → Red-Black Tree)
+- Resize and rehashing
+- equals() and hashCode() contract
+- Performance analysis
+

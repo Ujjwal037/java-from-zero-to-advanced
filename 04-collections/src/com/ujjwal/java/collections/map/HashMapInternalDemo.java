@@ -17,5 +17,21 @@ public class HashMapInternalDemo {
         System.out.println(map.get("Java"));
         System.out.println(map);
     }
+    class Key {
+        int id;
+
+        Key(int id) {
+            this.id = id;
+        }
+
+        public int hashCode() {
+            return 1; // forces collision
+        }
+
+        public boolean equals(Object o) {
+            return this == o;
+        }
+    }
+
 }
 
