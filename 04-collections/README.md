@@ -28,3 +28,9 @@
 - equals() and hashCode() contract
 - Performance analysis
 
+## Day 6 – ConcurrentHashMap Internals
+- Java 7 vs Java 8 design
+- CAS and bucket-level locking
+- Why nulls are not allowed
+- Fail-safe iterators
+- Performance comparison
