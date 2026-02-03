@@ -49,3 +49,10 @@
 - Natural ordering vs Comparator
 - Performance comparison
 
+## Day 9 – SortedSet, NavigableSet & Queues
+- SortedSet and its operations
+- NavigableSet navigation methods
+- TreeSet as NavigableSet implementation
+- Queue vs List
+- PriorityQueue internal working
+- Deque and ArrayDeque usage
