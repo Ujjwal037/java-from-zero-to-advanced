@@ -34,3 +34,11 @@
 - Why nulls are not allowed
 - Fail-safe iterators
 - Performance comparison
+
+## Day 7 – Set Interface & HashSet
+- Set contract and hierarchy
+- HashSet internal working
+- Duplicate prevention logic
+- equals() and hashCode dependency
+- Performance characteristics
+
