@@ -42,3 +42,10 @@
 - equals() and hashCode dependency
 - Performance characteristics
 
+## Day 8 – Ordered & Sorted Sets
+- LinkedHashSet internal working
+- Insertion order maintenance
+- TreeSet and Red-Black Tree
+- Natural ordering vs Comparator
+- Performance comparison
+
