@@ -56,3 +56,16 @@
 - Queue vs List
 - PriorityQueue internal working
 - Deque and ArrayDeque usage
+
+## Day 10 – Concurrent & Blocking Queues
+- BlockingQueue interface
+- ArrayBlockingQueue vs LinkedBlockingQueue
+- ConcurrentLinkedQueue
+- Producer–Consumer pattern
+- Real-world usage scenarios
+### BlockingQueue Implementations
+- ArrayBlockingQueue (bounded)
+- LinkedBlockingQueue (linked list)
+- PriorityBlockingQueue (heap-based)
+- DelayQueue (time-based scheduling)
+- SynchronousQueue (zero-capacity handoff)
