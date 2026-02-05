@@ -21,3 +21,10 @@
 - UnaryOperator & BinaryOperator
 - One consolidated demo class
 - Stream + functional interface integration
+
+### Day 4: Method References
+- Static method references
+- Instance method references (object & class)
+- Constructor references
+- Method references with streams
+- Comparator using method reference
