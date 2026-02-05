@@ -28,3 +28,10 @@
 - Constructor references
 - Method references with streams
 - Comparator using method reference
+
+### Day 5: Streams API – Basics
+- Stream creation
+- filter, map, sorted
+- limit, skip, distinct
+- count and collect
+- Terminal vs intermediate operations
