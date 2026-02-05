@@ -50,3 +50,11 @@
 - ifPresent, map, flatMap
 - Optional chaining for null safety
 - Real-world usage examples
+
+### Day 7: Default & Static Methods in Interfaces
+- Backward compatibility problem
+- Default methods introduction
+- Static methods in interfaces
+- Diamond problem resolution
+- Interface evolution in Java 8
+
