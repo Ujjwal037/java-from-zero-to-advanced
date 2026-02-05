@@ -35,3 +35,18 @@
 - limit, skip, distinct
 - count and collect
 - Terminal vs intermediate operations
+
+
+### Day 6: Streams API – Advanced
+- reduce() aggregation
+- findFirst, findAny
+- match operations
+- parallel streams
+- stream internals & performance
+
+### Day 7: Optional API
+- Creating Optional
+- orElse, orElseGet, orElseThrow
+- ifPresent, map, flatMap
+- Optional chaining for null safety
+- Real-world usage examples
