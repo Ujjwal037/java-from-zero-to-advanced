@@ -10,3 +10,9 @@
 - sleep(), join(), yield()
 - interrupt handling
 - Thread coordination basics
+
+### Week 6 Day 3: Synchronization & Thread Control
+- Race condition demonstration
+- synchronized keyword
+- yield() impact on scheduling
+- interrupt() cooperative thread termination
