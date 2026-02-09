@@ -16,3 +16,9 @@
 - synchronized keyword
 - yield() impact on scheduling
 - interrupt() cooperative thread termination
+
+### Week 6 Day 4: Inter-Thread Communication
+- Object monitor & wait set
+- wait(), notify(), notifyAll()
+- Producer–Consumer pattern
+- Spurious wake ups & while loop
