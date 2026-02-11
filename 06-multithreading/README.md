@@ -22,3 +22,18 @@
 - wait(), notify(), notifyAll()
 - Producer–Consumer pattern
 - Spurious wake ups & while loop
+
+### Week 6 Day 5: Memory Visibility & volatile
+- CPU cache & visibility problem
+- volatile keyword
+- Visibility vs atomicity
+- Happens-before rules
+- AtomicInteger vs volatile
+
+### Week 6 Day 6: ExecutorService & Thread Pools
+- Executor vs ExecutorService
+- Runnable vs Callable
+- Future
+- Fixed, Cached, Single, Scheduled pools
+- Graceful shutdown
+
