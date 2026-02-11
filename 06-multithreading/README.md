@@ -37,3 +37,11 @@
 - Fixed, Cached, Single, Scheduled pools
 - Graceful shutdown
 
+### Week 6 Day 7: CompletableFuture
+- runAsync vs supplyAsync
+- thenApply, thenCompose
+- thenCombine
+- Exception handling
+- allOf, anyOf
+- Real microservice parallelism
+
