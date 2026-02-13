@@ -44,4 +44,12 @@
 - Exception handling
 - allOf, anyOf
 - Real microservice parallelism
+- 
+- ### Week 6 Day 8: ForkJoinPool
+- RecursiveTask & RecursiveAction
+- fork(), join(), invoke()
+- Work-stealing algorithm
+- Parallel streams internals
+- CPU-bound optimization
+
 
