@@ -69,5 +69,14 @@ public class ParallelStreamDeepDiveDemo {
             customPool.shutdown();
         }
     }
+//    What This Demonstrates
+//    ✔ Sequential vs Parallel Performance
+//    Depends on CPU cores
+//    Depends on dataset size
+//    ✔ Default Thread Pool
+//    Parallel stream uses:
+//            ForkJoinPool.commonPool()
+//            ✔ Custom ForkJoinPool
+//    You can override common pool if needed.
 }
 

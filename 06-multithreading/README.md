@@ -52,4 +52,13 @@
 - Parallel streams internals
 - CPU-bound optimization
 
+### Week 6 Day 9: Parallel Streams Deep Dive
+- Sequential vs Parallel performance
+- ForkJoinPool.commonPool()
+- Custom ForkJoinPool
+- Thread usage behavior
+- When parallel is slower
+- Best practices & pitfalls
+
+
 
