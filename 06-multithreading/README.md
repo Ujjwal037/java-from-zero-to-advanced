@@ -60,5 +60,13 @@
 - When parallel is slower
 - Best practices & pitfalls
 
+### Week 6 Day 10: Concurrent Collections
+- ConcurrentHashMap internals
+- CopyOnWriteArrayList
+- ConcurrentLinkedQueue
+- BlockingQueue
+- ConcurrentSkipListMap
+- Real-world concurrency architecture
+
 
 
