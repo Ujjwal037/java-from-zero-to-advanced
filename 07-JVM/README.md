@@ -14,3 +14,13 @@
 - Mark & Sweep
 - Copying algorithm
 - Overview of GC types
+
+### Week 7 Day 3: G1 GC Deep Dive
+- Region-based heap
+- Young GC
+- Concurrent marking
+- Mixed GC
+- Humongous objects
+- Stop-the-world phases
+- GC tuning parameters
+- Reading GC logs
