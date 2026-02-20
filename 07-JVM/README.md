@@ -25,4 +25,10 @@
 - GC tuning parameters
 - Reading GC logs
 
-
+### Week 7 Day 4: ZGC & Shenandoah
+- Ultra-low latency GC
+- Colored pointers (ZGC)
+- Brooks pointer (Shenandoah)
+- Concurrent relocation
+- Pause-time independence from heap size
+- When to use which GC
