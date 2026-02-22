@@ -32,3 +32,12 @@
 - Concurrent relocation
 - Pause-time independence from heap size
 - When to use which GC
+
+### Week 7 Day 5: JVM Memory Model Deep Dive
+- Visibility problem
+- Instruction reordering
+- Happens-before rules
+- volatile semantics
+- Final field guarantees
+- Memory barriers
+- Double-checked locking fix
