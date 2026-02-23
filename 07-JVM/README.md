@@ -49,4 +49,4 @@
 - Parent delegation model
 - Metaspace
 - ClassLoader memory leaks
-- Static initialization order
+- Static initialization orderClassLoaderDemo
