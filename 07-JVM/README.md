@@ -41,3 +41,12 @@
 - Final field guarantees
 - Memory barriers
 - Double-checked locking fix
+
+### Week 7 Day 6: Class Loading Mechanism
+- Loading, Linking, Initialization
+- Verification, Preparation, Resolution
+- Bootstrap, Platform, Application loaders
+- Parent delegation model
+- Metaspace
+- ClassLoader memory leaks
+- Static initialization order
