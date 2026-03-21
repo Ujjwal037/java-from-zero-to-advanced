@@ -13,3 +13,12 @@
 - Lock ownership analysis
 - Debugging patterns (CPU, DB, locks)
 - Real production workflow
+
+### Week 8 Day 3: Heap Dumps & Memory Leaks
+- jmap / jcmd heap dump
+- Shallow vs retained size
+- GC roots
+- Dominator tree
+- Memory leak patterns
+- MAT analysis workflow
+- Production debugging steps
