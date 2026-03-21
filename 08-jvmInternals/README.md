@@ -22,3 +22,11 @@
 - Memory leak patterns
 - MAT analysis workflow
 - Production debugging steps
+
+### Week 8 Day 4: Java Flight Recorder (JFR)
+- Event-based JVM profiling
+- CPU, GC, thread, memory events
+- jcmd JFR.start / stop
+- Recording analysis using JMC
+- Production-safe profiling
+- Real-world debugging use cases
