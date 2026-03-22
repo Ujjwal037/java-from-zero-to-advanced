@@ -31,7 +31,14 @@
 - Production-safe profiling
 - Real-world debugging use cases
 
-
+### Week 8 Day 5: Java Mission Control (JMC)
+- JFR analysis tool
+- CPU flame graph
+- Memory allocation profiling
+- GC visualization
+- Thread & lock analysis
+- Event correlation
+- Real debugging workflow
 
 ### Week 8 Day 6: Memory Leak Debugging
 - Heap vs Metaspace leaks
