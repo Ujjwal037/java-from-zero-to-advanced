@@ -30,3 +30,14 @@
 - Recording analysis using JMC
 - Production-safe profiling
 - Real-world debugging use cases
+
+
+
+### Week 8 Day 6: Memory Leak Debugging
+- Heap vs Metaspace leaks
+- ThreadLocal leak
+- Cache leak
+- ClassLoader leak
+- Native memory leak
+- Heap dump analysis strategy
+- Production debugging checklist
