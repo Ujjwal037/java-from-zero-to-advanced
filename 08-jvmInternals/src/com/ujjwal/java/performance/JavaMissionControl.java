@@ -21,93 +21,63 @@ public class JavaMissionControl {
 //    Thread count surge
 //🔥 3️⃣ CPU Analysis (Hot Methods)
 //    Flame Graph
-//
 //    Visualizes:Which methods consume most CPU
-    //      Interpretation
-    //    Wide blocks → more CPU usage
-    //    Deep stacks → nested calls
-    //    Example Insight
-    //    processData() → 60% CPU
-//
-//👉 Optimize that method.
-//
+        //    Interpretation
+        //    Wide blocks → more CPU usage
+        //    Deep stacks → nested calls
+        //    Example Insight
+        //    processData() → 60% CPU
+//      👉 Optimize that method.
 //🧠 4️⃣ Memory Analysis
 //    Allocation Profiling
-//
-//    Shows:
-//
-//    Which classes allocate most memory
-//    Allocation rate
-//    Example
-//    byte[] → 70% allocation
-//
+//Shows:Which classes allocate most memory
+//      Allocation rate
+//      Example
+//      byte[] → 70% allocation
 //👉 Possible buffer misuse.
-//
-//🔥 Key Insight
-//
-//    High allocation rate = frequent GC.
-//
-//            🗑 5️⃣ GC Analysis
+//Key Insight
+//High allocation rate = frequent GC.
+//5️⃣ GC Analysis
 //    Metrics to Watch
 //    GC pause time
-//            Frequency
+//    Frequency
 //    Heap usage before/after
-//            Example
+//    Example
 //    Pause: 200ms
 //    Frequency: high
 //
 //👉 GC tuning required.
-//
-//            Visual Graph
-//
-//    You’ll see:
-//
-//    Heap curve
-//    GC spikes
-//🧵 6️⃣ Thread Analysis
+//Visual Graph
+//You’ll see:Heap curve,GC spikes
+//6️⃣ Thread Analysis
 //    Thread States
 //    RUNNABLE
-//            BLOCKED
+//    BLOCKED
 //    WAITING
 //    What to Look For
 //    Many BLOCKED threads → contention
 //    Many WAITING → idle / queue wait
 //    High RUNNABLE → CPU pressure
-//🔐 7️⃣ Lock Contention Analysis
+//7️⃣ Lock Contention Analysis
 //    Shows:
 //    Which locks are contended
 //    Which threads are blocked
 //    Example
 //    Lock: UserService.process()
 //    Threads blocked: 50
-//
-//            👉 Synchronization bottleneck.
-//
-//            📦 8️⃣ I/O Analysis
-//
-//    Shows:
-//
-//    File I/O
-//    Network I/O
-//    Blocking operations
-//    Example
-//    Socket read → high latency
-//
-//👉 External system issue.
-//
-//🔥 Correlation (Most Powerful Feature)
-//
-//    JMC allows:
-//
-//    Correlating events across time
-//
-//    Example:
-//
-//    CPU spike → GC pause → thread blocking
-//
-//    You see cause → effect chain.
-//
-//            🧪 Real Debugging Example
+//👉 Synchronization bottleneck.
+//8️⃣ I/O Analysis
+//Shows:File I/O
+//      Network I/O
+//      Blocking operations
+//      Example
+//      Socket read → high latency
+//      External system issue.
+//Correlation (Most Powerful Feature)
+//MC allows:Correlating events across time
+//Example:CPU spike → GC pause → thread blocking
+//        You see cause → effect chain.
+//Real Debugging Example
 //    Scenario: Slow API
 //    Step 1: Open JFR in JMC
 //    Step 2: Check CPU
@@ -130,14 +100,10 @@ public class JavaMissionControl {
 //    Optimize data structure
 //    Advanced Feature: Automated Analysis
 //JMC provides:“Automated Analysis Results”
-// Shows:
-
-//
-//    Memory issues
-//    GC issues
-//    Thread contention
-//
-//    Use it as first-pass diagnosis.
+// Shows:Memory issues
+//       GC issues
+//       Thread contention
+//       Use it as first-pass diagnosis.
 //
 // 🔥 Common Patterns You Must Recognize
         //🔴 Pattern 1: CPU Bottleneck
