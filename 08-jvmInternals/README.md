@@ -1,13 +1,13 @@
 ### Week 8 Day 1: JVM Monitoring Tools
 - jps (process listing)
 - jstat (GC monitoring)
-- jinfo (JVM flags)
-- jcmd (all-in-one tool)
+- j-info (JVM flags)
+- j-cmd (all-in-one tool)
 - Interpreting GC metrics
 - Production monitoring workflow
 
 ### Week 8 Day 2: Thread Dumps (jstack)
-- Taking thread dump (jstack, jcmd)
+- Taking thread dump (j-stack, j-cmd)
 - Thread states (RUNNABLE, BLOCKED, WAITING)
 - Deadlock detection
 - Lock ownership analysis
@@ -15,7 +15,7 @@
 - Real production workflow
 
 ### Week 8 Day 3: Heap Dumps & Memory Leaks
-- jmap / jcmd heap dump
+- j-map / j-cmd heap dump
 - Shallow vs retained size
 - GC roots
 - Dominator tree
@@ -26,7 +26,7 @@
 ### Week 8 Day 4: Java Flight Recorder (JFR)
 - Event-based JVM profiling
 - CPU, GC, thread, memory events
-- jcmd JFR.start / stop
+- j-cmd JFR.start / stop
 - Recording analysis using JMC
 - Production-safe profiling
 - Real-world debugging use cases
