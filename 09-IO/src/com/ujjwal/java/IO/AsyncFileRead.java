@@ -26,7 +26,7 @@ public class AsyncFileRead {
         System.out.println(new String(buffer.array()));
 
         channel.close();
-        
+
 //      Callback-Based (Better Approach)
         channel.read(buffer, 0, buffer, new CompletionHandler<Integer, ByteBuffer>() {
             public void completed(Integer result, ByteBuffer buffer) {
