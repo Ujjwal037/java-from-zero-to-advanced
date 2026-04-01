@@ -2,6 +2,7 @@ package com.ujjwal.java.designpattern.Creational;
 
 
 //Best Approach: Double-Checked Locking (IMPORTANT)
+//Instruction reordering (JVM optimization issue)
 
 public class SingletonWithVolatile {
 
