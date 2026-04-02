@@ -11,3 +11,14 @@
 * Enum Singleton
 * Real-world usage (Spring Beans)
 
+### 10-design-patterns Day 2: Factory + Abstract Factory
+
+* Problem with direct object creation
+* Factory pattern concept
+* Factory implementation (Car example)
+* Advantages & disadvantages
+* Abstract Factory pattern
+* Creating families of related objects
+* Factory vs Abstract Factory
+* Real-world usage (Spring BeanFactory)
+* 
