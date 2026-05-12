@@ -32,3 +32,15 @@
 * Object cloning using Cloneable
 * Shallow vs Deep copy
 * Real-world use cases
+
+### 10-design-patterns Day 4: Adapter + Decorator Pattern
+
+* Structural design patterns introduction
+* Adapter pattern concept
+* Adaptee, Target, Adapter roles
+* Third-party integration using Adapter
+* Decorator pattern concept
+* Dynamic behavior addition
+* Decorator structure & implementation
+* Decorator vs Inheritance
+* Real-world usage (Java IO, Spring)
