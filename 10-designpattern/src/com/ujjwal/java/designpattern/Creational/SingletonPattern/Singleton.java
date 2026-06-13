@@ -1,4 +1,4 @@
-package com.ujjwal.java.designpattern.Creational;
+package com.ujjwal.java.designpattern.Creational.SingletonPattern;
 
 
 
