@@ -55,14 +55,18 @@
 - Advantages and disadvantages
 - Interview questions
 
-### 10-design-patterns Day 4: Adapter + Decorator Pattern
+### 10-design-patterns Day 5: Prototype Pattern
 
-* Structural design patterns introduction
-* Adapter pattern concept
-* Adaptee, Target, Adapter roles
-* Third-party integration using Adapter
-* Decorator pattern concept
-* Dynamic behavior addition
-* Decorator structure & implementation
-* Decorator vs Inheritance
-* Real-world usage (Java IO, Spring)
+- Object creation cost problem
+- Prototype pattern definition
+- Cloneable interface
+- Object cloning
+- Internal working of clone()
+- Shallow copy
+- Deep copy
+- Memory reference diagrams
+- Prototype registry
+- Spring prototype scope vs Prototype pattern
+- Advantages and disadvantages
+- Interview questions
+- Real-world use cases
