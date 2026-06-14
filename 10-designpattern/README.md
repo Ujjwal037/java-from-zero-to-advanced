@@ -24,6 +24,21 @@
 - Advantages and disadvantages
 - Interview questions
 
+### 10-design-patterns Day 3: Abstract Factory Pattern
+
+- Problem with multiple related objects
+- Factory Method limitation
+- Abstract Factory definition
+- Product families concept
+- GUI theme example
+- Complete implementation
+- Internal execution flow
+- Enterprise use cases
+- Spring relation
+- Factory vs Abstract Factory
+- Advantages and disadvantages
+- Interview questions
+
 ### 10-design-patterns Day 3: Builder + Prototype Pattern
 
 * Problem with constructors (telescoping)
