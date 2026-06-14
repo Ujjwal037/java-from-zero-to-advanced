@@ -39,16 +39,21 @@
 - Advantages and disadvantages
 - Interview questions
 
-### 10-design-patterns Day 3: Builder + Prototype Pattern
+### 10-design-patterns Day 4: Builder Pattern
 
-* Problem with constructors (telescoping)
-* Builder pattern concept
-* Step-by-step object creation
-* Immutable objects using Builder
-* Prototype pattern concept
-* Object cloning using Cloneable
-* Shallow vs Deep copy
-* Real-world use cases
+- Telescoping constructor problem
+- Builder pattern definition
+- Product and Builder components
+- Fluent Interface concept
+- Method chaining
+- Immutable objects using Builder
+- Validation inside build()
+- Lombok @Builder
+- Spring Boot DTO usage
+- Builder vs Factory
+- Builder vs Constructor
+- Advantages and disadvantages
+- Interview questions
 
 ### 10-design-patterns Day 4: Adapter + Decorator Pattern
 
