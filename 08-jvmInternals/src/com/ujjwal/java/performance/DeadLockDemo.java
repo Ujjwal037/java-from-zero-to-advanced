@@ -26,7 +26,12 @@ class DeadlockDemo {
     }
 
     static void sleep() {
-        try { Thread.sleep(100); } catch (Exception ignored) {}
+        try { Thread.sleep(100);
+        }
+        catch (Exception ignored) {
+
+        }
+
     }
 }
 
