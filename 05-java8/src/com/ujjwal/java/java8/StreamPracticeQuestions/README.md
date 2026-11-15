@@ -5,16 +5,13 @@ Below is a structured, comprehensive curriculum of 50 hands-on coding questions 
 # Category 1: Easy 
 1. Filter Even Numbers
    Problem: Given a list of integers, filter out only the even numbers.
-
-Input: List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
-
-Output: [2, 4, 6, 8, 10]
+    Input: List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
+    
+    Output: [2, 4, 6, 8, 10]
 
 2. Convert Strings to Uppercase
    Problem: Convert a list of lowercase strings to uppercase using streams.
-
 Input: List<String> names = Arrays.asList("apple", "banana", "cherry");
-
 Output: [APPLE, BANANA, CHERRY]
 
 3. Length of the Longest String
@@ -145,6 +142,7 @@ Input: List<Integer> numbers = Arrays.asList(10, 20, 30, 40, 50, 60, 70, 80);
 Output: [40, 50, 60, 70]
 
 # Category 3: Hard
+
 21. Top 3 Maximum Elements
     Problem: Find the top 3 maximum elements from a list of integers.
 
